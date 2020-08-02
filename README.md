@@ -1,5 +1,4 @@
-# En natt på Museet
-Inlämning: En natt på museet, 5 Yhp
+# [YTOPC9] Inlamning 3: En natt på Museet
 
 ### Uppgiftsbeskrivning
 Ni jobbar som frilansande programmerare och har fått ett uppdrag att göra en virtualisering av ett konstmuseum som ska vara användbart från en gammal datorterminal som kommer stå i museets entré. Man ska därför i ett konsolprogram kunna vandra runt i museumets olika rum och få beskrivningar av konstverken i det rummet. Konstmuseumets personal är väldigt positivt inställda och nyfikna på er lösning, och räknar med att detta kommer vara en stor publikdragare!
@@ -9,13 +8,6 @@ Strukturen på ditt program är i denna uppgift mer än tidigare upp till dig, s
 Utmaningen i denna uppgift är strukturen mellan de olika rummen och hur användaren kan navigera mellan dessa i programmet. Du ska även implementera tre stycken valfria enhetstester och motivera dessa i din rapport.
 
 Du borde nogrant fundera igenom strukturen på ditt program och skriva dessa tester först innan du börjar med ditt konsolprogram.
-
-### Karta över museet
-
-Studera den nedanstående bilden, detta är hur museumet ser ur:
-
-![MAP.jpg](https://raw.githubusercontent.com/wu19distans/en-natt-pa-museet/master/MAP.jpg?token=ACNDGC2RSAAM3PR23GXE5BK55JVBM)
-
 
 ### Kravspecifikation:
 
